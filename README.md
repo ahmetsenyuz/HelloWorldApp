@@ -6,11 +6,11 @@ A simple console application written in C# that prints "Hello, World!" to the co
 
 These instructions will get you a copy of the project up and running on your local machine.
 
-### Prerequisites
+## Prerequisites
 
 - [.NET SDK](https://dotnet.microsoft.com/download) installed on your machine
 
-### Running the Application
+## Running the Application
 
 1. Clone the repository
 2. Navigate to the project directory
