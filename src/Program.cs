@@ -8,7 +8,7 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Welcome to the C# Console Application!");
-            Console.Write("Press any key to continue...");
+            Console.WriteLine("Press any key to continue...");
             Console.ReadKey();
         }
     }
